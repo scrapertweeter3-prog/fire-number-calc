@@ -1,0 +1,8 @@
+[package]
+name = "fire-number-calc"
+version = "0.1.0"
+edition = "2021"
+description = "Fire number math for early retirement: the target balance from your annual spending and withdrawal rate, the gap from where you are, the years to close it, and how much a growing budget stretches the timeline."
+license = "MIT"
+homepage = "https://firenomics.com"
+repository = "https://github.com/scrapertweeter3-prog/fire-number-calc"
