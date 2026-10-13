@@ -1,0 +1,6 @@
+site_name: fire-number-calc
+site_description: The fire number from spending and withdrawal rate, the gap, and both timelines when the budget grows.
+repo_url: https://github.com/scrapertweeter3-prog/fire-number-calc
+repo_name: scrapertweeter3-prog/fire-number-calc
+nav:
+  - Home: index.md
