@@ -1,0 +1,16 @@
+{
+  "$schema": "https://docs.page/schema.json",
+  "name": "fire-number-calc",
+  "description": "A terminal calculator for the number every early retirement plan hangs on: annual spending divided by your withdrawal rate",
+  "sidebar": [
+    {
+      "group": "Guide",
+      "pages": [
+        {
+          "title": "Overview",
+          "href": "/"
+        }
+      ]
+    }
+  ]
+}
