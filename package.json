@@ -1,0 +1,8 @@
+{
+  "name": "fire-number-calc",
+  "version": "0.1.0",
+  "description": "Fire number math for early retirement: the target balance, the gap, and the years to close it",
+  "license": "MIT",
+  "repository": "https://github.com/scrapertweeter3-prog/fire-number-calc",
+  "homepage": "https://firenomics.com"
+}
